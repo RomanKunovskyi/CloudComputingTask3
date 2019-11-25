@@ -11,6 +11,7 @@ namespace Task3
         }
         static void Main(string[] args)
         {
+            //massage
             Console.WriteLine(GetHelloAsync().Result);
             Console.ReadLine();
         }
