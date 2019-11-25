@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Task3
@@ -12,10 +9,9 @@ namespace Task3
         {
             return await Task.Run(() => { return "HELLO JANKINS. HELLO GIT. HELLO C#."; });
         }
-        static async Task Main(string[] args)
+        static void Main(string[] args)
         {
-            string a=await GetHelloAsync();
-            Console.WriteLine(a);
+            Console.WriteLine(GetHelloAsync().Result);
             Console.ReadLine();
         }
     }

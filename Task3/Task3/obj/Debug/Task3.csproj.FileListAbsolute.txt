@@ -1,0 +1,6 @@
+G:\3course\CloudComputing\Task3\Task3\Task3\bin\Debug\Task3.exe.config
+G:\3course\CloudComputing\Task3\Task3\Task3\bin\Debug\Task3.exe
+G:\3course\CloudComputing\Task3\Task3\Task3\bin\Debug\Task3.pdb
+G:\3course\CloudComputing\Task3\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+G:\3course\CloudComputing\Task3\Task3\Task3\obj\Debug\Task3.exe
+G:\3course\CloudComputing\Task3\Task3\Task3\obj\Debug\Task3.pdb
